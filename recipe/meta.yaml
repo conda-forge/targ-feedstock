@@ -21,6 +21,7 @@ requirements:
     - pip
     - colorama ==0.4.*
     - docstring_parser >=0.12
+    - setuptools
   run:
     - python >={{ python_min }}
     - colorama ==0.4.*
